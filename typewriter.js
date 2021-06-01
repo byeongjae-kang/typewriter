@@ -1,4 +1,4 @@
-const sentence = 'hello there from lighthouse labs';
+const sentence = 'hello there from lighthouse labs\n';
 
 const eventLoop = (char, next) => {
   setTimeout(() => {
